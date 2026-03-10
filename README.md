@@ -81,4 +81,4 @@ A CLI-based university registration system built with object-oriented thinking.
 
 ## ⚡ Fun Fact
 
-I like building projects that are not
+I like building projects that are not just "for class" but can actually connect to real-life engineering, security, or finance problems.
