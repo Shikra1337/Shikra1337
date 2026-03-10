@@ -20,7 +20,6 @@ Welcome to my GitHub profile. I'm a second-year Computer Engineering student at 
 ## 🌱 Currently Working On
 
 * 📈 **Trading Platform Security Monitor**
-* 🏫 **University Registration System**
 * 🔍 Strengthening my software engineering fundamentals
 * 🤖 Exploring AI-assisted development workflows
 * 🧪 Learning cybersecurity through **TryHackMe**
